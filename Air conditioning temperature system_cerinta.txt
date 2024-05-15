@@ -1,0 +1,4 @@
+Create an Air conditioning temperature control unit:
+● If the temperature goes above a given value V=23 degrees C turn on a fan
+● Simulate the fan with a dc motor
+● Show the temperature on two 7 segment LED displays.
